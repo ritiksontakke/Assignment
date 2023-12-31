@@ -1,0 +1,7 @@
+.dark-mood-icon{
+    transform: .3s ease;
+}
+
+.dark-mood-icon:hover{
+    transform: scale(1,2);
+}
