@@ -25,7 +25,7 @@
   --color-bg: black;
   --color-card: #111111;
 }
-body{
+.body{
   overflow: hidden;
 }
 .container{
